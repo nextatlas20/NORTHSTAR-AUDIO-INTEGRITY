@@ -1,0 +1,8 @@
+sequence,carrier_id,collection,title,expected_crc32,state
+1,AU-101,Oral Histories,Harbor Voices,7A1B2C3D,ACTIVE
+2,AU-102,Folk Music,Cedar Reel,00FF11AA,ACTIVE
+3,AU-103,Newsroom,Evening Bulletin,DEADBEEF,ACTIVE
+4,AU-104,Oral Histories,Dockworkers Log,13579BDF,WITHDRAWN
+5,AU-105,Nature,Marsh Dawn,A1B2C3D4,ACTIVE
+6,AU-106,Folk Music,Winter Session,ABCD1234,ACTIVE
+7,AU-107,Newsroom,Weather Desk,2468ACE0,ACTIVE
