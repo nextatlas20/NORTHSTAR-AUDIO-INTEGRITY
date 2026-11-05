@@ -1,0 +1,7 @@
+sequence,carrier_id,collection,title,status,scan_id,scanned_at,observed_crc32
+1,AU-101,Oral Histories,Harbor Voices,VERIFIED,SC-102,2026-09-01T10:00:00Z,7A1B2C3D
+2,AU-102,Folk Music,Cedar Reel,VERIFIED,SC-114,2026-09-01T09:30:00Z,00FF11AA
+3,AU-103,Newsroom,Evening Bulletin,MISMATCH,SC-112,2026-09-01T11:00:00Z,FEEDC0DE
+5,AU-105,Nature,Marsh Dawn,VERIFIED,SC-113,2026-09-01T11:05:00Z,A1B2C3D4
+6,AU-106,Folk Music,Winter Session,VERIFIED,SC-111,2026-09-01T10:45:00Z,ABCD1234
+7,AU-107,Newsroom,Weather Desk,UNSCANNED,,,
